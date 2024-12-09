@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: black;
+  color: white;
+}
+.navbar.container{
+  margin: auto;
+  width: 1200px;
+}
+button.front-btn {
+  background: #FF9F0D;
+  border-radius: 53px;
+  width: 190px;
+  height: 50px;
+}
+.content {
+  width: 1200px;
+  margin: auto;
+}
+ul.navul {
+  line-height: 6;
+}
